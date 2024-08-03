@@ -6,3 +6,5 @@ This is my first image classification algorithm to detect and classify traffic s
 
 # Solving the problem
 I built a CNN model from scratch and was able to get the model to make predictions of traffic signs with 96.97% accuracy. Building this model was very exciting for me. And so, it got me to get other imaging datasets to challenge me more. 
+
+***Some challenges*** Doing this project forced me to learn more about image manipulation, especially in plotting. I learned a lot about this from Professor Andrew Ng’s Machine Learning specialization course on Coursera. In addition to revising notes on Matplotlib, I also learned more about Seaborn in order to plot a Confusion Matrix to visualize how my model performed.  
